@@ -32,5 +32,9 @@ public class project {
         default:
             System.out.println("Angka di inputkan tidak valid!");
     }
+        
+        for(int add = 0 ; add < 11; add++){
+            System.out.println(add);
+        }
     }
 }
